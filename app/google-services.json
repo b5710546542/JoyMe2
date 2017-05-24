@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "412865798382",
+    "firebase_url": "https://joyme-b6555.firebaseio.com",
+    "project_id": "joyme-b6555",
+    "storage_bucket": "joyme-b6555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412865798382:android:d378ecf6e615009c",
+        "android_client_info": {
+          "package_name": "com.example.noot.joyme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412865798382-7br17ecsmri1pdi2ekaft6lic05ilp4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.noot.joyme",
+            "certificate_hash": "dd4748fc1136d7f3653fc82b84070f93d5257e46"
+          }
+        },
+        {
+          "client_id": "412865798382-ctncvruuq96adnoon527dpgj8qunadu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjwcX0iZAXH8yee0mNBsOCFMqK2xK5iKs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412865798382-ctncvruuq96adnoon527dpgj8qunadu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
